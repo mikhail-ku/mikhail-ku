@@ -5,7 +5,7 @@
 </div>
 
 ## 🗣️ About Me
-Hello! My name is Mikhail Kuzmin, and I'm currently studying Applied Informatics as a bachelor's student. I'm deeply fascinated by programming and neural networks, constantly discovering new horizons and bringing creative ideas to life.
+Hello! My name is Mikhail, and I'm currently studying Applied Informatics as a bachelor's student. I'm deeply fascinated by programming and neural networks, constantly discovering new horizons and bringing creative ideas to life.
 
 Always seeking new knowledge and innovative approaches. Taking courses, keeping up with current trends, and actively experimenting with emerging technologies.
 
